@@ -1,12 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Brief presentation of courses I helped as a research assistant.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+BC 215\\
+Postgraduate Second Year Elective Cource: Rhea: 16S Analysis Pipeline \\
+Answering, technical support and troubleshooting students questions. \\
+\\
+\\
+CS 390\\
+Pregraduate Third Year Elective Course: Introduction to Bioinformatics\\
+Delivered several lectures focusing on Data Visualization.
